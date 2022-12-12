@@ -1,0 +1,2 @@
+2022-12-08 12:05:17.629 +02:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }
+2022-12-08 12:05:17.686 +02:00 [INF] Accepting connections from clients, IP: 192.168.88.106, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }

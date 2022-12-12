@@ -1,0 +1,3 @@
+2022-12-08 12:05:18.608 +02:00 [INF] Accepting connections from clients, IP: 192.168.88.106, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2022-12-08 23:38:54.035 +02:00 [INF] Accepting connections from clients, IP: 192.168.0.183, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2022-12-08 23:49:08.316 +02:00 [INF] Accepting connections from clients, IP: 192.168.0.183, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }

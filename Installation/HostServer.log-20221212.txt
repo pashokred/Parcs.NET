@@ -1,0 +1,10 @@
+2022-12-12 13:19:57.848 +02:00 [INF] Accepting connections from clients, IP: 192.168.0.183, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2022-12-12 13:20:37.823 +02:00 [INF] Starting a new job with priority 0. Username:  { SourceContext: "HostServer.Server", ThreadId: 6 }
+2022-12-12 13:20:39.053 +02:00 [INF] Job N 1 has finished { SourceContext: "HostServer.Server", ThreadId: 6 }
+2022-12-12 14:00:33.477 +02:00 [INF] Job N 1 disconnected { SourceContext: "HostServer.TCPHostServer", ThreadId: 8 }
+2022-12-12 14:00:33.494 +02:00 [INF] Job N 1 has finished { SourceContext: "HostServer.Server", ThreadId: 8 }
+2022-12-12 14:00:43.781 +02:00 [INF] Accepting connections from clients, IP: 192.168.0.183, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2022-12-12 14:12:36.632 +02:00 [INF] Starting a new job with priority 0. Username:  { SourceContext: "HostServer.Server", ThreadId: 5 }
+2022-12-12 14:12:37.052 +02:00 [INF] Job N 1 has finished { SourceContext: "HostServer.Server", ThreadId: 5 }
+2022-12-12 14:12:45.076 +02:00 [INF] Starting a new job with priority 0. Username:  { SourceContext: "HostServer.Server", ThreadId: 8 }
+2022-12-12 14:12:45.172 +02:00 [INF] Job N 2 has finished { SourceContext: "HostServer.Server", ThreadId: 8 }

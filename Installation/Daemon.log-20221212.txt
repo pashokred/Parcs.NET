@@ -1,0 +1,6 @@
+2022-12-12 11:13:22.804 +02:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }
+2022-12-12 11:13:22.871 +02:00 [INF] Accepting connections from clients, IP: 172.20.10.4, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }
+2022-12-12 11:15:37.497 +02:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }
+2022-12-12 11:15:37.568 +02:00 [INF] Accepting connections from clients, IP: 172.20.10.4, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }
+2022-12-12 11:17:30.806 +02:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }
+2022-12-12 11:17:30.869 +02:00 [INF] Accepting connections from clients, IP: 172.20.10.4, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "ADMIN-PASHOK" }

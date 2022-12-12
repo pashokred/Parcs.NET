@@ -1,0 +1,1 @@
+QuickSort.exe --if startArr.arr --of resArr.arr --p 8
